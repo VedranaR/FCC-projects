@@ -19,6 +19,6 @@
 
 <p>These are the certificates I've earned:</p>
 
-<img src="https://www.imageupload.co.uk/images/2018/10/30/ResponsiveWebDesigncertification.png">
+<img src="https://i.postimg.cc/wBqS4c39/Responsive-Web-Design-certification.png">
 
 <img src="https://i.postimg.cc/7YQTDGj3/JS-Algorithms-and-Data-Structures-certification.png">
