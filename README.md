@@ -9,6 +9,16 @@
   <li>Personal portfolio page, HTML5 and Bootstrap</li>
 </ul>
 
-<p>This is the first certificate I've earned:</p>
+<ul>
+  <li>Palindrome Checker</li>
+  <li>Roman Numeral Converter</li>
+  <li>Caesars Cipher</li>
+  <li>Telephone Number Validator</li>
+  <li>Cash Register</li>
+</ul>
+
+<p>These are the certificates I've earned:</p>
 
 <img src="https://www.imageupload.co.uk/images/2018/10/30/ResponsiveWebDesigncertification.png">
+
+<img src="https://i.postimg.cc/7YQTDGj3/JS-Algorithms-and-Data-Structures-certification.png">
